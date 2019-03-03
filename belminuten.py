@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
+#IMPORTANT: Deze file mist nog de code om een notebook buiten Jupyter om te printen!
+
 #inlezen van CSV verbruikdetails.csv in PANDAS dataframe verbruikdetails
 #bestand staat op laptop Denise c:\user\piete
 #In het orginele Excel bestaand moet het formaat 00:00:00 omgezet worden naar seconden
